@@ -9,6 +9,6 @@ What You should do
       MYSQL_ROOT_PASSWORD: your_root_password
 
 2.  Configure the services name;
-3.  Then you can copy it to an existing project.
+3.  Save and copy the Dockerfile and docker-compose.yaml to an existing project.
    
 Cheers
