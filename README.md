@@ -2,7 +2,7 @@
 This is a quick setup for containerising your project. It helps your install Mysql 5.7.22, phpmyadmin.
 
 What You should do
-1. Updae the Mysql Configuration;
+1. Update the Mysql Configuration;
        MYSQL_DATABASE: your_db
       MYSQL_USER: your_username
       MYSQL_PASSWORD: your_password
