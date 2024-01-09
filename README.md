@@ -8,7 +8,7 @@ What You should do
       MYSQL_PASSWORD: your_password
       MYSQL_ROOT_PASSWORD: your_root_password
 
-2.  Configure the services name;
+2.  Change the service_name to your preferred name;
 3.  Save and copy the Dockerfile and docker-compose.yaml to an existing project.
    
 Cheers
